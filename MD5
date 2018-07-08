@@ -1,6 +1,7 @@
-7b0b451222a5d64466f12d7aa7be9eca *DESCRIPTION
+03223016c90bdfe645bc8761423f0407 *DESCRIPTION
 857aa8670e0ba8d3c0556bbe0791a9dc *NAMESPACE
-715407c1d77c9e3a2723279deb13daf9 *R/flatxml.r
+3d135e17933f11b5831ec95abb9e7c5d *R/flatxml.r
+64b6067efbc81a92f2e86589a7c397a7 *README.md
 a1ef15b797e67b1ccd81f0b99f025f54 *inst/soccer.xml
 862926cc6aece2df9cf4d08c3b09c3f8 *inst/worldpopulation.xml
 c5d89de1db7d267a2996d143dcf3c4b9 *man/flatxml.Rd

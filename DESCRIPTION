@@ -1,7 +1,7 @@
 Package: flatxml
 Type: Package
 Title: Tools for Working with XML Files as R Dataframes
-Version: 0.0.1
+Version: 0.0.2
 Authors@R: person("Joachim", "Zuckarelli", email = "joachim@zuckarelli.de",
   role = c("aut", "cre"))
 Maintainer: Joachim Zuckarelli <joachim@zuckarelli.de>
@@ -15,6 +15,6 @@ LazyData: true
 Imports: RCurl, xml2
 RoxygenNote: 6.0.1
 NeedsCompilation: no
-Packaged: 2018-06-21 18:51:27 UTC; Joachim
+Packaged: 2018-06-27 20:25:39 UTC; Joachim
 Author: Joachim Zuckarelli [aut, cre]
-Date/Publication: 2018-06-24 13:32:58 UTC
+Date/Publication: 2018-07-08 15:00:03 UTC
