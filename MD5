@@ -1,10 +1,10 @@
-03223016c90bdfe645bc8761423f0407 *DESCRIPTION
-857aa8670e0ba8d3c0556bbe0791a9dc *NAMESPACE
-3d135e17933f11b5831ec95abb9e7c5d *R/flatxml.r
-64b6067efbc81a92f2e86589a7c397a7 *README.md
+e0d34b358c96c41eb04844fca9a4809a *DESCRIPTION
+0fd8c70f85e9b83dac697391aaf320cd *NAMESPACE
+48115217c4ab12e74e4796d205e3aa4a *R/flatxml.r
+6a4d7e3cd6763d770b30e06f0c1994a9 *README.md
 a1ef15b797e67b1ccd81f0b99f025f54 *inst/soccer.xml
 862926cc6aece2df9cf4d08c3b09c3f8 *inst/worldpopulation.xml
-c5d89de1db7d267a2996d143dcf3c4b9 *man/flatxml.Rd
+495a9505f81a0de4b466807d08d32124 *man/flatxml.Rd
 9de8cecb1f1f98a24aa4d0a19f3c201a *man/fxml_findPath.Rd
 aafa4c619dcee1e0c8e01ed2224e4668 *man/fxml_findPathBottom.Rd
 17747cac06d2e1f6788afc66d87fcffe *man/fxml_findPathFull.Rd
@@ -28,4 +28,5 @@ ce96adc0f5f3e6758258a8e294bc0ecc *man/fxml_importXMLFlat.Rd
 3283007c62edc9a41b0e076a56dc6ce0 *man/fxml_numAttributes.Rd
 0af2f97212859e8d0337b6583e0878a1 *man/fxml_numChildren.Rd
 d01765568f146218d68c17c992fa0d18 *man/fxml_numSiblings.Rd
-bbc7bd83d466c12da313dfa39af1e448 *man/fxml_toDataFrame.Rd
+3bcf1a39c2b56bea11930efb22adc076 *man/fxml_toDataFrame.Rd
+7f818495ecde0e675e8a81f5d125fd9b *man/fxml_toXML.Rd
