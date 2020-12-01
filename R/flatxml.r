@@ -85,6 +85,11 @@
 NULL
 
 
+.onAttach <- function(libname, pkgname){
+  packageStartupMessage(paste0(crayon::cyan$bold("You are using 'flatxml'. \n\n"),crayon::green("If you want to convert XML data to R data frames or vice-versa, it is recommend to install the '"), crayon::green$bold("xmlconvert"), crayon::green("' package and use its xml_to_df() and df_to_xml() functions. Type 'install.packages(\"xmlconvert\", dependencies = TRUE)' into the R console' to install 'xmlconvert'.\n")))
+}
+
+
 #' @title Handling flat XML files
 #' @description Reads an XML document into a flat dataframe structure.
 #'

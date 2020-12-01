@@ -1,7 +1,7 @@
 Package: flatxml
 Type: Package
 Title: Tools for Working with XML Files as R Dataframes
-Version: 0.1.0
+Version: 0.1.1
 Authors@R: person("Joachim", "Zuckarelli", email = "joachim@zuckarelli.de",
   role = c("aut", "cre"))
 Maintainer: Joachim Zuckarelli <joachim@zuckarelli.de>
@@ -12,9 +12,9 @@ URL: https://github.com/jsugarelli/flatxml/
 Repository: CRAN
 Encoding: UTF-8
 LazyData: true
-Imports: RCurl, xml2, httr
+Imports: RCurl, xml2, httr, crayon
 RoxygenNote: 7.1.1
 NeedsCompilation: no
-Packaged: 2020-07-24 09:16:55 UTC; Jozu01
+Packaged: 2020-12-01 21:25:30 UTC; zucka
 Author: Joachim Zuckarelli [aut, cre]
-Date/Publication: 2020-07-24 09:30:03 UTC
+Date/Publication: 2020-12-01 21:40:02 UTC
